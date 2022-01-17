@@ -385,6 +385,19 @@
       ],
       "desc": "A clicker game for nerds",
       "feat": "A clicker game for nerds"
-    }
-  }
-]
+    },
+    {
+    "name": "google",
+    "icon": "https://raw.githubusercontent.com/andrewstech/windows11-1/master/public/img/icon/minecraft.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://google.com.tw",
+      "gallery": [
+        "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
+        "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
+        "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+      ],
+      "desc": "Minecraft is a sandbox construction video game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities.\nIts diverse gameplay lets players choose the way they play, allowing for countless possibilities. There are three actively maintained editions of Minecraft: Java Edition, Bedrock Edition, and Education Edition.",
+      "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.\n1.3 Voted updates.\n1.4 Super Fancy graphics.\n1.5 Phasing out of NB
+    
