@@ -385,6 +385,22 @@
       ],
       "desc": "A clicker game for nerds",
       "feat": "A clicker game for nerds"
+    },
+    {
+    {
+    “名称”：“google”，//唯一名称（检查它是否已在文件中使用）
+    “图标”：“https://example.com/minecraft.png”，//徽标图像，最好是1:1，宽度小于128px
+    “类型”：“游戏”，//游戏或应用程序
+    “数据”：{
+      “类型”：“IFrame”，//类型目前仅支持IFrame
+      “网址”：“https://google.com.tw”，//应用程序的网址，并确保他们接受Iframe
+      “画廊”：[ // 商店应用程序中用于画廊视图的三张或更多图像
+        https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png”，
+        https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600"，
+        https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg
+      】，
+      “desc”：“Minecraft是一款沙盒构建电子游戏......”，//商店应用程序描述
+      “壮举”：“1.1 战斗更改。\n1.2 删除表功能”。, // 商店应用程序的功能
+      “反转”：true，//当它强制游戏/应用程序窗口的深色主题时，默认为false。
     }
   }
-]
